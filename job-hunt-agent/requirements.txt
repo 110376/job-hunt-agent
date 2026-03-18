@@ -1,0 +1,7 @@
+langchain>=1.2.0
+langchain-openai>=0.3.0
+httpx>=0.28.0
+lxml>=6.0.0
+python-dotenv>=1.0.0
+rich>=14.0.0
+pytest>=8.0.0

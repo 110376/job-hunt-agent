@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.pytest_tmp/
+.pytest_local_tmp/
+.tmp/
+
+.env
+.job_agent_login_state.json
+
+artifacts/
